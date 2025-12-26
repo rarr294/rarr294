@@ -1,7 +1,7 @@
 ## 
 
 <h4>
-  my main programming language is C(Ofcourse I understand how the physical ram work Too)
+  my main programming language is C (ofcourse I understand how the physical ram work Too)
   <br>
   focusing on low level userspace system programming & low level network system programming in debian linux distribution
   focusing on sock_stream(tcp socket) and sock_dgram(udp socket) in Linux
