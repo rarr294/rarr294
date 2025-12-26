@@ -18,7 +18,7 @@
 
 <h3> My Major Skill : </h3>
 <ul>
-  <li>I can create low level backend In C without framework for all platoform(web,dekstop,mobile,iot system) including the system security</li>
+  <li>I can create low level backend In C without framework for all platform(web,dekstop,mobile,iot system) including the system security</li>
   <li>I understand the system architecture</li>
   <li>I can make custom Network Service for company(like ftp custom,ssh custom,proxy,etc) including the system security</li>
   <li>I understand Cryptography theory and its application(cryptographic tokens, encryption/decryption, integrity checking,etc)</li>
