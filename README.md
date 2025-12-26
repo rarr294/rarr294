@@ -9,6 +9,9 @@
   <br>
   <br>
   This GitHub account was created to upload some of my personal projects (just a hobby)
+  <br>
+  <br>
+  my main os is debian linux and I use it as a daily os for programming purpose and working with some project
 </p>
   
 </p>
