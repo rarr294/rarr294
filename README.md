@@ -6,6 +6,11 @@
   focusing on low level userspace system programming & low level network system programming in debian linux distribution
   <br>
   focusing on sock_stream(tcp socket) and sock_dgram(udp socket) in Linux
+  <br>
+  <br>
+  This GitHub account was created to upload some of my personal projects (just a hobby)
+</p>
+  
 </p>
 
 <h3> My Major Skill : </h3>
