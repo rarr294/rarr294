@@ -21,9 +21,9 @@
   <li>I can create low level backend In C without framework for all platform(web,dekstop,mobile,iot system) including the system security</li>
   <li>I understand the system architecture</li>
   <li>I can make custom Network Service for company(like ftp custom,ssh custom,proxy,etc) including the system security</li>
-  <li>I understand Cryptography theory and its application(cryptographic tokens, encryption/decryption, integrity checking,etc)</li>
+  <li>I understand applied cryptography and its application(cryptographic tokens,encryption/decryption,signature,etc)</li>
   <li>Database(Just Simple Crud,because I'm not database administrator)</li>
-  <li>Reverse Enginerring & Debugging</li>
+  <li>Debugging</li>
 </ul>
 
 
